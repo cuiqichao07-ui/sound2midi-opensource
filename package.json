@@ -1,0 +1,24 @@
+{
+  "name": "sound2midi-resample",
+  "version": "1.0.0",
+  "description": "Tiny dependency-free audio resampler (mix down to mono @ 22,050 Hz) for Spotify Basic Pitch pipelines. Companion utility to the free browser tool at https://sound2midi.xyz",
+  "main": "index.js",
+  "keywords": [
+    "audio",
+    "midi",
+    "resample",
+    "basic-pitch",
+    "web-audio",
+    "offlineaudiocontext"
+  ],
+  "author": "sound2midi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuiqichao07-ui/sound2midi-opensource.git"
+  },
+  "homepage": "https://sound2midi.xyz",
+  "bugs": {
+    "url": "https://github.com/cuiqichao07-ui/sound2midi-opensource/issues"
+  }
+}
