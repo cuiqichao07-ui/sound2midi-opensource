@@ -1,0 +1,15 @@
+﻿format,extension,type,note,status
+MP3,mp3,audio,MPEG-1 Layer III,declared
+WAV,wav,audio,Microsoft/IBM PCM,verified
+M4A,m4a,audio,Apple AAC/ALAC container,declared
+AAC,aac,audio,Advanced Audio Coding,declared
+FLAC,flac,audio,Free Lossless Audio Codec,declared
+AIFF,aiff,audio,Apple Interchange File Format,declared
+AIFF,aif,audio,Apple Interchange File Format (short ext),declared
+OGG,ogg,audio,Ogg Vorbis,declared
+OGG,oga,audio,Ogg Vorbis (audio-only),declared
+Opus,opus,audio,Opus codec,declared
+WebM,webm,audio/video,WebM container (audio track used),declared
+MP4,mp4,video,MP4 container (audio track extracted),verified
+M4V,m4v,video,Apple MP4 variant,declared
+MOV,mov,video,Apple QuickTime,declared
